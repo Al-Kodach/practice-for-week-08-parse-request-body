@@ -67,7 +67,7 @@ Tip: You can use the following functions to aid you:
 After you are finished passing all the specs for the __parse-body.js__ file,
 it's time to use the `parseBody(str)` function that you implemented in the
 server.
-
+ 
 In the __server.js__ file, assemble the request body string. Once the server
 is finished assembling the request body string, convert the string into an
 object. Then, set the `body` property on the request object, `req.body`, to the
